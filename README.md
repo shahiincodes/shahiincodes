@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahiincodes
-- 👀 I’m interested in Coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ..
