@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahiincodes
+- 👋 Hi, I’m @Habibar Rahman
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on projects
