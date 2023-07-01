@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Habibar Rahman
 - 👀 I’m interested in MERN stack web development
-- 🌱 I’m currently learning react.js, github and DSA
+- 🌱 I’m currently doing project using react.js
+-  Learning DSA 
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at shahin.amla@gmail.com
 
