@@ -6,5 +6,10 @@
 - 📫 Reach me at shahin.amla@gmail.com
 - 📫 linkedIn www.linkedin.com/in/habibar-rahman/
 
-
-Skills - HTML, CSS, BOOTSTRAP, JAVASCRIPT ,REACT.JS, NODE.JS, EXPRESS.JS, MONGODB, HANDLEBARS, GIT
+My updated skills are:
+ FrontEnd: HTML, CSS,Javascript, React.js , Bootstrap, Material UI, 
+ BeckEnd : Node.js, Express.js, Socket.io
+ Templating Engine : Handlebars 
+ Database : MongoDb 
+ State Management : Redux 
+ Version-control : Git
